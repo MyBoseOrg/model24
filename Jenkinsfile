@@ -1,2 +1,2 @@
 @Library('elizasharedlibrary') _
-boseApp 'https://github.com/MyBoseOrg/model24'
+boseApp2 'https://github.com/MyBoseOrg/model24'
